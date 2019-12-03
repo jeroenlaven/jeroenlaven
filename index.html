@@ -21,7 +21,7 @@ layout: default
 					<span>{{ post.date | date: "%b %d" }}</span>
 				</div>
 				<div class="title">
-					<h2 class="code">{<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></h2>
+					<h2 class="code"><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></h2>
 					<section class="post-excerpt" itemprop="description">
       						<p>{{ post.content | truncatewords: 50 }}</p>
     					</section>
