@@ -58,14 +58,20 @@ img {
 }
 a {
   color: inherit;
-  text-decoration: none;
-  border-bottom: 1px solid #555;
+  background: #FFD670;
   &.image {
     display: block;
     text-align: center;
     border: 0;
     border-radius: 5px;
-    margin: 30px 0;
+    margin: 30px 0; 
+  }
+  &:hover {
+      background: #78C0E0;
+  }
+  }
+  &:visited {
+      background: #FE5F55;
   }
 }
 mark {
