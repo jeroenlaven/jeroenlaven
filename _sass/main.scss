@@ -284,6 +284,9 @@ article {
   a {
     background: #FFD670;
   }
+  a:hover {
+    text-decoration: underline;
+  }
 }
 .back {
   text-align: center;
