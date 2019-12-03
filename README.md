@@ -1,4 +1,4 @@
-# Visuology.nl
+# Visuology — Blog
 
 > Art. Advertising. Desing. Technology.
 
