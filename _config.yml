@@ -10,6 +10,8 @@ baseurl:            /
 permalink:          /:title # Post permalink
 timezone:           Europe/Amsterdam # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
+paginate:           5
+
 
 # Site Build
 highlighter:        rouge
