@@ -5,6 +5,8 @@ title: About
 
 Hello.
 
-This will be your About page. Anything about you, it should be written here in details. You may describe your bio here like who you are, what you do, your intention, social site hyperlinks and how people can contact you, etc.
+After almost 7 or 8 years I’m back online. Starting this blog as I did [those years ago](https://web.archive.org/web/20111111110853/http://jeroenlaven.me:80/), to write down what I see, read or hear. Contemporary art, design, photography and technology.
 
-**Less is more..**
+[Speak soon](https://twitter.com/visuology_nl).
+
+— Jeroen
