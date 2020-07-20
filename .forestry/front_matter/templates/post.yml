@@ -8,3 +8,5 @@ fields:
 - type: datetime
   name: updated
   label: updated
+pages:
+- _posts/the-last-of-us-part-ii.md
