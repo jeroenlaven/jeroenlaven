@@ -35,6 +35,9 @@ h6 {
     margin-bottom: 1rem;
     line-height: 1.25;
     color: #313131;
+    a {
+      background: none;
+    } 
 }
 h1 {
   font-size: 2rem;
@@ -163,7 +166,7 @@ ol {
     word-wrap: break-word;
   }
   img {
-    margin: 40px 0;
+    margin: 5px 0;
     border-radius: 5px;
   }
 }
@@ -314,6 +317,9 @@ article {
   max-width: 500px;
   margin: 0 auto;
   font-size: 0.8rem;
+  a {
+    background: none;
+    }  
 }
 .page-navigation {
   margin: 50px auto 0 auto;
@@ -321,6 +327,7 @@ article {
     display: inline-block;
     text-decoration: none;
     border-bottom: none;
+    background: none;
   }
   span {
     display: inline-block;
@@ -332,6 +339,7 @@ article {
   a {
     border: none;
     font-weight: bold;
+    background: none;
   }
 }
 section {
@@ -355,6 +363,7 @@ section {
         border: 0;
         color: #000;
         box-sizing: border-box;
+        background: none;
       }
       .post-date {
         float: right;
