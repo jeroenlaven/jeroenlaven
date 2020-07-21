@@ -21,6 +21,9 @@ body {
   -webkit-text-size-adjust: 100%;
   @media (min-width: 992px) {
     padding: 35px 50px;
+    a {
+      background: #FFD670;
+    } 
   }
 }
 h1,
@@ -55,8 +58,6 @@ h6 {
 }
 img {
   max-width: 100%;
-  margin-top: 1.1rem;
-  margin-bottom: 1.1rem;
 }
 a {
   color: inherit;
