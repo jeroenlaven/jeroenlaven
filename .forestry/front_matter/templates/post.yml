@@ -1,0 +1,12 @@
+---
+label: post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: updated
+  label: updated
+pages:
+- _posts/2020-07-20-the-last-of-us-part-ii.md
