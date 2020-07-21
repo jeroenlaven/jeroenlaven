@@ -23,7 +23,7 @@ layout: default
 				<div class="title">
 					<h4 class="code"><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a></h4>
 					<section class="post-excerpt" itemprop="description">
-      						<p>{{ post.content | truncatewords: 30 }}&nbsp;<em><a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">Read more</a></em></p>
+      						<p>{{ post.content | truncatewords: 30 }}&nbsp;<em><a class="readmore" href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">Read more</a></em></p>
     					</section>
 				</div>
 			</li>
