@@ -7,6 +7,6 @@ For my work, I am constantly looking into new fonts. New ideas, approaches, and 
 
 > The quintessential classic fonts collection with a contemporary licensing system. Developing variable design systems and standard formats (otf, web) to fit our ever-changing global communication needs. We are a forward-thinking company committed to supporting social and ecological causes for the benefit of humanity and all life on earth.
 
-4 amazing fonts, for an amazing price, and presented in such a way that you immediately get an idea on how these could look in your own design or text file. Below a short GIF on how your mouse moves the fonts in weight and width!
+4 amazing fonts, for an amazing price, and presented in such a way, you immediately get an idea of how these could look in your own design or text file. Below a short GIF on how your mouse moves the fonts in weight and width!
 
 ![](/uploads/fonts.gif)
