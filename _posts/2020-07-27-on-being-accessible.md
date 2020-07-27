@@ -7,5 +7,4 @@ Working at an art institution, being accessible to as many people as possible, i
 
 Yesterday I was scrolling through my Twitter feed, and found this video of a girl, blind, using an iPhone to post a tweet and browse the internet. It's amazing how far technology has come, and how it can enrich lives in different ways. Especially the braille typing impressed me, and how fast is Kirsty...? :)
 
-<iframe border=0 frameborder=0 width=500
- src="https://twitframe.com/show?url=https://twitter.com/Kristy_Viers/status/1287189581926981634"></iframe>
+<iframe border=0 frameborder=0 width=500 src="https://twitframe.com/show?url=https%3A%2F%2Ftwitter.com%2FKristy_Viers%2Fstatus%2F1287189581926981634"></iframe>
