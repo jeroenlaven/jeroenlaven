@@ -3,7 +3,7 @@ title: 25 Years in the Making
 updated: 2021-02-09 00:00:00 +0100
 
 ---
-> Launching a website like Twitter, growing big time like Facebook and only then start fleshing out a moderation policy is only possible because of [Section 230](https://en.wikipedia.org/wiki/Section_230). The internet looks and works the way it does, because of this law. Whether you thinks it's good or bad, there is shift happening and maybe, just maybe, all those big websites need to rethink their strategy.
+Launching a website like Twitter, growing big time like Facebook and only then start fleshing out a moderation policy is only possible because of [Section 230](https://en.wikipedia.org/wiki/Section_230). The internet looks and works the way it does, because of this law. Whether you thinks it's good or bad, there is shift happening and maybe, just maybe, all those big websites need to rethink their strategy.
 
 > It’s called Section 230 — and for the past quarter-century, it’s shaped the internet for better and worse.
 >
